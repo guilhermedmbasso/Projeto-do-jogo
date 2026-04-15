@@ -1,0 +1,11 @@
+2. Requisitos Funcionais (RF)
+O que o jogo precisa fazer:
+
+Controle: Saltar e agachar via teclado/toque.
+
+Geração: Criar obstáculos aleatórios (cactos e aves).
+
+Colisão: Encerrar o jogo ao tocar em um objeto.
+
+Score: Contar distância e salvar o recorde localmente.
+
