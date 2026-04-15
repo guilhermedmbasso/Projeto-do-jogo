@@ -1,0 +1,10 @@
+Requisitos Não Funcionais (RNF)
+Estes descrevem como o sistema deve se comportar (qualidade):
+
+RNF01 - Baixa Latência: O tempo de resposta entre o comando do usuário e a ação na tela deve ser inferior a 16ms (para manter 60 FPS).
+
+RNF02 - Portabilidade: O jogo deve rodar em qualquer navegador baseado em Chromium, tanto em desktop quanto em dispositivos móveis.
+
+RNF03 - Disponibilidade Offline: O jogo deve ser carregado e executado integralmente sem necessidade de conexão com a internet.
+
+RNF04 - Leveza: O footprint de memória e processamento deve ser mínimo, permitindo execução em hardware legado.
