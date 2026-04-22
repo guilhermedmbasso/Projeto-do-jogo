@@ -1,1 +1,47 @@
+MoSCoW (Jogo do Dino)
 
+Must:
+Dino correndo
+Pular
+Obstáculos
+Perder ao bater
+Pontos
+
+Should:
+Velocidade aumentar
+Mais obstáculos
+Reiniciar
+
+Could:
+Som
+Dia/noite
+Visual melhor
+Won’t:
+
+Matriz valor x esforço
+
+Multiplayer
+Loja
+História
+Matriz Valor x Esforço
+
+Alto valor / Baixo esforço:
+
+Pulo
+Colisão
+Pontos
+
+Alto valor / Alto esforço:
+
+Velocidade
+Novos obstáculos
+
+Baixo valor / Baixo esforço:
+
+Som
+Visual
+
+Baixo valor / Alto esforço:
+
+Multiplayer
+Loja
